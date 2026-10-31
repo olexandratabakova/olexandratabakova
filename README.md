@@ -38,7 +38,7 @@ Hi! I'm Oleksandra — a mathematics & data science student who enjoys understan
 ### `04 / little signs of life`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=olexandratabakova&show_icons=true&hide_border=true&bg_color=0d0a18&title_color=c9a3ff&text_color=d5c9e9&icon_color=b993f7" alt="Oleksandra's GitHub statistics" />
+ <img src="./purple-lab.png" width="100%" alt="Purple pixel art coding room" />
 </div>
 
 ---
