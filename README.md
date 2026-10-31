@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="assets/purple-lab.png" width="100%" alt="A cozy purple pixel-art computer lab with sleepy cats, retro monitors, and glowing terminals" />
 
 <br />
 
